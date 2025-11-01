@@ -19,6 +19,7 @@ else:
     print("ODD")
 
 
+
 ## Output
 
 <img width="479" height="360" alt="image" src="https://github.com/user-attachments/assets/6d622059-1343-4a68-a999-1f08d0a1ee1e" />
